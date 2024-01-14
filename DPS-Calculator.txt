@@ -1,4 +1,0 @@
-## Title: DPS Calculator
-## APIVersion: 101040
-
-DPS-Calculator.lua
